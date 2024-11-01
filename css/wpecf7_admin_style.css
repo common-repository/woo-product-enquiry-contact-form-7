@@ -1,0 +1,40 @@
+.wpecf7-container {
+    margin-top: 20px;
+    padding-right: 20px;
+}
+.wpecf7-container h2 {
+    margin: 0px 0px;
+    padding: 10px 10px;
+    background-color: #576979;
+    color: #fff;
+    text-transform: uppercase;
+}
+.wpecf7-container .wpecf7_cover_div {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.wpecf7-container table.wpecf7_data_table {
+    display: inline-block;
+    padding: 0px 10px;
+}
+.wpecf7-container .wpecf7_data_table tr th, .wpecf7_data_table tr td{
+    text-align: left;
+    width: auto;
+}
+.wpecf7-container .wpecf7_data_table tr{
+    line-height: 35px;
+}
+.wpecf7-container .wpecf7_data_table tr th{
+    min-width: 250px;
+}
+.wpecf7_data_table input[type="color"], .wpecf7_data_table input[type="number"]{
+    width: 100%;
+}
+.wpecf7-container .wpecf7_data_table strong {
+    vertical-align: middle;
+}
+.wpecf7_data_table td.example_td p, .wpecf7_data_table td.example_td xmp {
+    margin: 3px 0px;
+    line-height: 21px;
+}
